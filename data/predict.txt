@@ -1,0 +1,9 @@
+1,天职工程咨询股份有限公司	org;天职咨询	abr_org;北京天职工程管理技术创新投资有限公司	org;天职创投	abr_org;译筑信息科技(上海)有限公司	org;译筑科技	abr_org;
+2,天津亚星世纪实业股份有限公司	org;亚星世纪	abr_org;天津市世名新能源汽车零部件有限公司	org;世名新能源	abr_org;凌志强	person;陈利姝	person;亚星世纪	person;陈利姝	person;凌志强	person;
+3,海源悦汽车电子股份有限公司	org;上海源悦汽车服务有限公司	org;梁志	person;梁志	person;
+4,苏河汇	abr_org;西藏创嘉	abr_org;重庆舒荷	abr_org;
+5,海安科大凯文环境有限公司	org;
+6,2018年5月	date;厦门匠心志臻文化传播有限公司	org;
+7,上海立讯检测有限公司	org;
+8,络康健康管理咨询(上海)有限公司	org;上海世纪恒康医疗咨询有限公司	org;
+9,林凡斯	person;2018年5月7日	date;周金梅	person;

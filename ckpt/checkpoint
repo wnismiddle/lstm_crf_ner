@@ -1,0 +1,6 @@
+model_checkpoint_path: "ner.epoch266_loss_0.053005222best_dev"
+all_model_checkpoint_paths: "ner.epoch215_loss_0.09008115best_dev"
+all_model_checkpoint_paths: "ner.epoch216_loss_0.065224074best_dev"
+all_model_checkpoint_paths: "ner.epoch235_loss_0.07328119best_dev"
+all_model_checkpoint_paths: "ner.epoch251_loss_0.09112683best_dev"
+all_model_checkpoint_paths: "ner.epoch266_loss_0.053005222best_dev"
